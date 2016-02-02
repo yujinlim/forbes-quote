@@ -1,0 +1,36 @@
+{
+  "name": "forbes-quote",
+  "version": "1.0.0",
+  "description": "Forbes news quote of the day",
+  "main": "index.js",
+  "homepage": "https://github.com/yujinlim/forbes-quote",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "quote",
+    "forbes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yujinlim/forbes-quote.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yujinlim/forbes-quote/issues"
+  },
+  "author": {
+    "name": "Yu Jin",
+    "email": "adamlyj89@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "got": "^6.1.1"
+  },
+  "devDependencies": {
+    "ava": "^0.11.0",
+    "proxyquire": "^1.7.4"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
