@@ -24,4 +24,4 @@ getQuote()
 ```
 
 ## License
-MIT © [Yu-Jin](https://github.com/yujinlim)
+MIT © [Yu-Jin](https://github.com/yujinlim/forbes-quote/blob/master/LICENSE)
